@@ -74,4 +74,3 @@ let joysticks = [
 ## License
 
 This project is open source.
-```
